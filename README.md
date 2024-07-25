@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently 3rd year CSE Student in Chitkara University.
+- 🔭 I’m currently 4th year CSE Student in Chitkara University.
 - 🌱 I’m currently learning DSA and Full Stack Web Development.
+- 😄 I'm am doing internship as Software Engineer - I at GeekyAnts.
